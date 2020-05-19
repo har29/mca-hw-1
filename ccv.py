@@ -140,6 +140,3 @@ def retrive(ind):
 
 
 
-query('all_souls_000026.jpg')
-#query('balliol_000035.jpg')
-#query('bodleian_000001.jpg')
