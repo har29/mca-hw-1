@@ -3,6 +3,7 @@ import cv2
 from PIL import Image 
 import os
 import matplotlib.pyplot as plt
+import numpy as np
 
 def create_ccv():
 	path = os.path.join("images")
